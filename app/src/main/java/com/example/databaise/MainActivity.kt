@@ -49,7 +49,7 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
-}
+}`
 
 @Composable
 @Destination
